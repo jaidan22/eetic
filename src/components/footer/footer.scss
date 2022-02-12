@@ -1,0 +1,29 @@
+.footer {
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  position: relative;
+
+  span {
+    font-size: 20px;
+    margin-left: 250px;
+    font-family: var(--bs-font-sans-serif);
+    color: var(--bs-gray-600);
+  }
+
+  .contactC {
+    position: absolute;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .icon {
+      background-color: rgba(0, 0, 0, 0.8);
+      padding: 15px;
+      border-radius: 50%;
+      font-size: 24px;
+      margin-right: 10px;
+    }
+  }
+}
