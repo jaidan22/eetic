@@ -1,0 +1,28 @@
+.portfolio {
+  width: calc(100% - 200px);
+  height: 150vh;
+  margin: 0 auto 0 auto;
+
+  .heading {
+    font-family: var(--bs-font-sans-serif);
+    text-align: center;
+
+    h1 {
+      font-size: 40px;
+      font-weight: 600;
+      margin-bottom: 15px;
+      margin-top: 50px;
+    }
+    span {
+      color: var(--bs-gray-600);
+      font-size: 22px;
+    }
+  }
+
+  .cards {
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 60px 5px;
+  }
+}

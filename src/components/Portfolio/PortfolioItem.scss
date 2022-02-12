@@ -1,0 +1,24 @@
+.item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  img {
+    width: 500px;
+    height: 100%;
+    border: none;
+    border-radius: 0;
+  }
+
+  h2 {
+    margin: 20px 0px 5px 0px;
+    font-family: var(--bs-font-sans-serif);
+    font-size: 32px;
+    font-weight: 600;
+  }
+  span {
+    color: var(--bs-gray-600);
+    font-size: 22px;
+  }
+}
