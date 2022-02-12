@@ -1,0 +1,13 @@
+.clients {
+  height: 20vh;
+  width: calc(100%);
+  margin: 0 auto 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+  img {
+    height: 65px;
+    width: auto;
+  }
+}
