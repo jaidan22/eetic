@@ -13,7 +13,7 @@ const TeamMem = ({ img, name, designation }) => {
       <img src={img} alt={name} />
       <span className="name">{name}</span>
       <span className="designation">{designation}</span>
-      <div className="contact">
+      <div className="contact-team">
         <FontAwesomeIcon
           style={{ color: "#fff" }}
           className="icon"
