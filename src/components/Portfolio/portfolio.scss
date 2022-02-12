@@ -1,6 +1,6 @@
 .portfolio {
   width: calc(100% - 200px);
-  height: 150vh;
+  height: auto;
   margin: 0 auto 0 auto;
 
   .heading {
@@ -20,7 +20,7 @@
   }
 
   .cards {
-    margin-top: 100px;
+    margin: 100px auto 400px auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 60px 5px;
