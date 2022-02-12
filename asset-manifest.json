@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/eetic2/static/css/main.2d7f8619.css",
-    "main.js": "/eetic2/static/js/main.c22e5db1.js",
-    "static/media/header-bg.jpg": "/eetic2/static/media/header-bg.bc21d3752987756d44cc.jpg",
-    "static/media/map-image.png": "/eetic2/static/media/map-image.8b6fb978f30fc1933fc9.png",
-    "static/media/2.jpg": "/eetic2/static/media/2.87e0c3f65a54cfb1fbeb.jpg",
-    "static/media/3.jpg": "/eetic2/static/media/3.38bf68042f7462ebe9d2.jpg",
-    "static/media/1.jpg": "/eetic2/static/media/1.2f783a2fc68106854a4c.jpg",
-    "static/media/5-thumbnail.jpg": "/eetic2/static/media/5-thumbnail.4a83149e56ef7e0bc0bd.jpg",
-    "static/media/1-thumbnail.jpg": "/eetic2/static/media/1-thumbnail.d385a874ab90faeca66c.jpg",
-    "static/media/3-thumbnail.jpg": "/eetic2/static/media/3-thumbnail.795aa1c4b7c040bb104f.jpg",
-    "static/media/4-thumbnail.jpg": "/eetic2/static/media/4-thumbnail.f47b27cd19b95ac05829.jpg",
-    "static/media/2-thumbnail.jpg": "/eetic2/static/media/2-thumbnail.27d2ce9868b72d5529a4.jpg",
-    "static/media/6-thumbnail.jpg": "/eetic2/static/media/6-thumbnail.eab18fc0a9d65adda83b.jpg",
-    "index.html": "/eetic2/index.html",
-    "main.2d7f8619.css.map": "/eetic2/static/css/main.2d7f8619.css.map",
-    "main.c22e5db1.js.map": "/eetic2/static/js/main.c22e5db1.js.map"
+    "main.css": "/eetic/static/css/main.2eec78a5.css",
+    "main.js": "/eetic/static/js/main.1495e8c6.js",
+    "static/media/header-bg.jpg": "/eetic/static/media/header-bg.bc21d3752987756d44cc.jpg",
+    "static/media/map-image.png": "/eetic/static/media/map-image.8b6fb978f30fc1933fc9.png",
+    "static/media/2.jpg": "/eetic/static/media/2.87e0c3f65a54cfb1fbeb.jpg",
+    "static/media/3.jpg": "/eetic/static/media/3.38bf68042f7462ebe9d2.jpg",
+    "static/media/1.jpg": "/eetic/static/media/1.2f783a2fc68106854a4c.jpg",
+    "static/media/5-thumbnail.jpg": "/eetic/static/media/5-thumbnail.4a83149e56ef7e0bc0bd.jpg",
+    "static/media/1-thumbnail.jpg": "/eetic/static/media/1-thumbnail.d385a874ab90faeca66c.jpg",
+    "static/media/3-thumbnail.jpg": "/eetic/static/media/3-thumbnail.795aa1c4b7c040bb104f.jpg",
+    "static/media/4-thumbnail.jpg": "/eetic/static/media/4-thumbnail.f47b27cd19b95ac05829.jpg",
+    "static/media/2-thumbnail.jpg": "/eetic/static/media/2-thumbnail.27d2ce9868b72d5529a4.jpg",
+    "static/media/6-thumbnail.jpg": "/eetic/static/media/6-thumbnail.eab18fc0a9d65adda83b.jpg",
+    "index.html": "/eetic/index.html",
+    "main.2eec78a5.css.map": "/eetic/static/css/main.2eec78a5.css.map",
+    "main.1495e8c6.js.map": "/eetic/static/js/main.1495e8c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d7f8619.css",
-    "static/js/main.c22e5db1.js"
+    "static/css/main.2eec78a5.css",
+    "static/js/main.1495e8c6.js"
   ]
 }
