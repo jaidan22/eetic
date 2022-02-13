@@ -3,16 +3,29 @@
   display: flex;
   align-items: center;
   position: relative;
+  @media (max-width: 1600px) {
+    flex-direction: column;
+  }
 
   span {
     font-size: 20px;
     margin-left: 250px;
     font-family: var(--bs-font-sans-serif);
     color: var(--bs-gray-600);
+    @media (max-width: 1600px) {
+      margin-top: 10px;
+      margin-left: 0;
+    }
   }
 
   .contactC {
     position: absolute;
+
+    @media (max-width: 1600px) {
+      position: relative;
+      margin: 10px auto;
+    }
+
     width: 100%;
     display: flex;
     align-items: center;

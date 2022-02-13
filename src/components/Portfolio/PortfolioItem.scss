@@ -9,6 +9,10 @@
     height: 100%;
     border: none;
     border-radius: 0;
+    @media (max-width: 960px) {
+      max-width: 90vw;
+      height: auto;
+    }
   }
 
   h2 {

@@ -6,10 +6,22 @@
 
   &.itemL {
     margin-left: 50px;
+    @media (max-width: 1600px) {
+      margin: 100px auto;
+    }
+    @media (max-width: 960px) {
+      margin: 100px auto;
+    }
   }
 
   &.itemR {
     margin-left: 38.5vw;
+    @media (max-width: 1600px) {
+      margin: 100px auto;
+    }
+    @media (max-width: 960px) {
+      margin: 100px auto;
+    }
   }
 
   img {
@@ -23,6 +35,15 @@
     margin: 0 3vw 0 3vw;
     width: 30vw;
     text-align: right;
+
+    @media (max-width: 1600px) {
+      // margin: 100px auto;
+      width: 80vw;
+    }
+    @media (max-width: 960px) {
+      width: 60vw;
+    }
+
     h2 {
       margin: 0px 0px 5px 0px;
       font-family: var(--bs-font-sans-serif);

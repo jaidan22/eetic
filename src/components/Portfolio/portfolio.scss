@@ -24,5 +24,15 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 60px 5px;
+    @media (max-width: 1600px) {
+      margin: 100px auto;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
+    @media (max-width: 960px) {
+      margin: 100px auto;
+      display: flex;
+      flex-direction: column;
+    }
   }
 }

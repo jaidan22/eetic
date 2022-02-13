@@ -2,6 +2,9 @@
   width: calc(100% - 200px);
   height: 230vh;
   margin: 0 auto 0 auto;
+  @media (max-width: 1600px) {
+    height: auto;
+  }
 
   .heading {
     font-family: var(--bs-font-sans-serif);
@@ -31,6 +34,10 @@
       // margin-left: -3px;
       top: 0;
       z-index: -1;
+
+      @media (max-width: 1600px) {
+        display: none;
+      }
     }
 
     .last {
@@ -51,6 +58,18 @@
       padding: 0px 30px;
       box-sizing: border-box;
       text-align: center;
+      @media (max-width: 1600px) {
+        width: 300px;
+        height: 150px;
+        border-radius: 0;
+        margin: auto;
+      }
+      @media (max-width: 960px) {
+        margin: auto;
+        width: 300px;
+        border-radius: 0;
+        height: 150px;
+      }
     }
   }
 }
