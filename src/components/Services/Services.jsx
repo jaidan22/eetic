@@ -4,7 +4,7 @@ import "./service.scss";
 
 const Services = () => {
   return (
-    <div className="services">
+    <div className="services" id="services">
       <div className="header">
         <span className="title">SERVICES</span>
         <span className="desc">Lorem ipsum dolor sit amet consectetur</span>

@@ -10,7 +10,7 @@ import pic6 from "../../img/portfolio/6-thumbnail.jpg";
 
 const Portfolio = () => {
   return (
-    <div className="portfolio">
+    <div className="portfolio" id="portfolio">
       <div className="heading">
         <h1>PORTFOLIO</h1>
         <span>Lorem ipsum dolor sit amet consectetur</span>

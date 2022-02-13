@@ -7,7 +7,7 @@ import pic3 from "../../img/team/3.jpg";
 
 const Team = () => {
   return (
-    <div className="team">
+    <div className="team" id="team">
       <TeamMem img={pic1} name="Kay Garland" designation="Lead Designer" />
       <TeamMem img={pic2} name="Larry Parker" designation="Lead Marketer" />
       <TeamMem

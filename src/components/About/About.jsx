@@ -8,7 +8,7 @@ import pic4 from "../../img/about/4.jpg";
 
 const About = () => {
   return (
-    <div className="about">
+    <div className="about" id="about">
       <div className="heading">
         <h1>ABOUT</h1>
         <span>Lorem ipsum dolor sit amet consectetur</span>
